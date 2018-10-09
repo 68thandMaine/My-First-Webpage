@@ -1,12 +1,12 @@
-# _{Application Name}_
+# Rainbow kitty surprise
 
-#### _{Brief description of application}, {Date of current version}_
+#### Simple static website that explains why our cats are demonic, 9 October 2018
 
-#### By _**{List of contributors}**_
+#### By _**CR DS MS BG**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+This application is a list of reasons our three cats suck. There is a link to a video that provides visual evidence of these reasons.
 
 ## Setup/Installation Requirements
 
@@ -20,15 +20,14 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_no known bugs as of 10.9.18_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
-
+Any issues should be reported to chrisrudnicky@gmail.com
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_We wrote this in HTML. As of 10/9/18 there are no other technologies used_
 
 ### License
 
