@@ -1,18 +1,14 @@
-h1 {
-  color: F23209;
+html, body, span, object, h1, h2, h3, h4, h5, h6, p, a, abbr, acronym, em, img, ol, ul, li {
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+    margin: 0;
+    padding: 0;
 }
 
-h2 {
-  font-family: helvetica;
-  font-style: italic;
-  text-align: center;
-}
-
-p {
-  font-family: arial,sans-serif;
-}
-
-ul {
-  font-size: 20px;
-  line-height: 30px;
+div {
+  background-color: purple; 
 }
