@@ -9,6 +9,10 @@ html, body, span, object, h1, h2, h3, h4, h5, h6, p, a, abbr, acronym, em, img, 
     padding: 0;
 }
 
-div {
-  background-color: purple; 
+h1 {
+  text-align:center;
+}
+
+#gif {
+  text-align: center;
 }
