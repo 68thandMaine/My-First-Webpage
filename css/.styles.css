@@ -1,0 +1,18 @@
+h1 {
+  color: F23209;
+}
+
+h2 {
+  font-family: helvetica;
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: arial,sans-serif;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
